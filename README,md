@@ -1,0 +1,34 @@
+# Stock Portfolio Performance Tracker
+
+A Python application that tracks stock investments and calculates portfolio performance.
+
+## Features
+- Enter stock ticker symbols
+- Record buying price and number of shares
+- Calculate total investment and current market value
+- Calculate profit/loss and percentage gain/loss
+- Export portfolio results in CSV format
+
+## Technologies Used
+- Python 3
+- CSV module
+- File handling
+
+## How to Run
+1. Download or clone this repository.
+2. Run `portfolio.py` using Python 3.
+3. Enter the stock ticker, buying price, number of shares, and current price.
+4. Type `done` to display the portfolio summary.
+
+## Example
+- Stock: AAPL
+- Buying price: 150
+- Shares: 10
+- Current price: 180
+- Investment: 1500
+- Current value: 1800
+- Profit: 300
+- Gain: 20%
+
+## Author
+Jashwanth
